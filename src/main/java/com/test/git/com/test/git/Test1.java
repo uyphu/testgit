@@ -19,4 +19,5 @@ package com.test.git.com.test.git;
  */
 public class Test1 {
 
+	private Integer id;
 }
